@@ -3,5 +3,6 @@
 }
 
 input.ng-invalid.ng-touched {
-  border: 5px solid pink;
+  border-left: 6px solid red;
+  background-color: lightgrey;
 }
